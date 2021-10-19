@@ -1,5 +1,5 @@
 body {
-	background:url(../gitweb/images/basilica.jpg);
+	background:url(../gitweb/basilica.jpg);
 	background-repeat:repeat;
 	background-attachment:scroll;
 	background-position:center 0px;
@@ -8,7 +8,7 @@ body {
 
 /*
 div {
-	background:url(../gitweb/images/basilica.jpg);
+	background:url(../gitweb/basilica.jpg);
 	height:300px;
 	}
 */
